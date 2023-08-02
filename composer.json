@@ -1,0 +1,20 @@
+{
+    "name": "tudormercea/helpers",
+    "description": "Collections of utility functions (helpers, debug, etc) for various projects",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tudor Mercea",
+            "email": "tudormercea@tmvss.ro"
+        }
+    ],
+    "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "TudorMercea\\Utils\\": "src/"
+    }
+  },
+  "require": {}
+}
+

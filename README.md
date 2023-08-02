@@ -1,2 +1,2 @@
-# Utils
-Utilities package containing diverse functionalities for various projects
+# Helpers
+Collections of helper and debugging functions for various projects
