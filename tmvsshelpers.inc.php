@@ -1,7 +1,7 @@
 <?php
 
 if (version_compare(PHP_VERSION, '7.4') < 0) {
-    throw new \Exception('TMVSSHelpers requires PHP 7.4 or above');
+    throw new \Exception('TMVPHPUtils requires PHP 7.4 or above');
 }
 
 if (! class_exists('TMVPHP\Utils\\')) {

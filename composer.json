@@ -1,5 +1,5 @@
 {
-    "name": "tudormercea/helpers",
+    "name": "tudormercea/utils",
     "description": "Collections of utility functions (helpers, debug, etc) for various projects",
     "type": "library",
     "license": "MIT",
